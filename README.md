@@ -1,17 +1,21 @@
 # Telegram-Weather-Bot
 **Weather Bot with Admin Panel**
+
 This project is a Telegram bot that provides weather updates and an admin panel for managing user accounts and bot settings. It is built using Node.js and the NestJS framework.
 
 **Features**
+
 Weather updates: Get current weather information for a specified location.
 Admin panel: Manage user accounts, block/delete users, and update bot settings.
 
 **Prerequisites**
+
 Before running the application, make sure you have the following installed:
 Node.js
 npm (Node Package Manager)
 
 **How to access**
+
 To start the application, run the following command:
 npm run start:dev
 This will launch the application in development mode.
